@@ -176,9 +176,9 @@ jupyter notebook
 
 ## Author
 **Your Name**
-- Email: your.email@example.com
-- LinkedIn: [Your Profile]
-- GitHub: [Your GitHub]
+- Email: mohitchafle04@example.com
+- LinkedIn: Mohit Chafle
+- GitHub: https://github.com/mohitchafle
 
 ## License
 MIT License
